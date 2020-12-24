@@ -1,5 +1,6 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&display=swap");
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
@@ -15,6 +16,7 @@
 /*===== Fuente y tipografia =====*/
 :root {
   --body-font: "Poppins", sans-serif;
+  /* --body-font: "Frank Ruhl Libre", serif; */
   --big-font-size: 2rem;
   --h2-font-size: 1.25rem;
   --normal-font-size: 0.938rem;
@@ -396,7 +398,7 @@ img {
   right: 30px;
   bottom: 10px;
   text-align: center;
-  line-height: 45px;
+  line-height: 48px;
   color: white;
   z-index: 9999;
   font-size: 30px;
